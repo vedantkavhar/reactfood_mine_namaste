@@ -15,3 +15,6 @@
 - const loginbtn=screen.getByText("button",{name:"Login"});
 - check iteme by passing regex scree.getByText(/Cart/) it will check cart item is intit or not
 - login,logout check after change use fireevent.click(loginbtn),check for logout
+
+
+- this is namaste reaact of mine but getting error so in resume delfood is swiggy clone of some random guy ,i cloneed it ,making commit to check which repo is this tp
